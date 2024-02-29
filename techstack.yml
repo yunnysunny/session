@@ -2,7 +2,7 @@ repo_name: yunnysunny/session
 report_id: 26acc2b3424ab7d984e5a965ce08f1e7
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-05T15:57:25+00:00'
+timestamp: '2024-02-29T19:55:09+00:00'
 requested_by: dougwilson
 provider: github
 branch: master
@@ -85,7 +85,7 @@ tools:
   last_updated_by: Douglas Christopher Wilson
   last_updated_on: 2022-05-09 00:55:19.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.2.3
   license: MIT
